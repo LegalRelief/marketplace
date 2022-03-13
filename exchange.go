@@ -1,4 +1,4 @@
-package LegalRelief
+package main
 
 import (
 	"container/heap"
